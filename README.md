@@ -160,6 +160,10 @@ mvn spring-boot:run
 
 <div align="center">
 
-**Developed by Aashutosh Shrivastava**
+**Developed with ❤️ by [Aashutosh Shrivastava](https://github.com/aashutosh)**
+
+*⭐ Star this repo if you found it useful!*
+
+</div>
 
 </div>
